@@ -1,6 +1,6 @@
 package src
 
-// https://leetcode.cn/problems/binary-search/
+// Search https://leetcode.cn/problems/binary-search/
 func Search(nums []int, target int) int {
 	low := 0
 	high := len(nums) - 1
