@@ -1,4 +1,4 @@
-package src
+package array
 
 // Search https://leetcode.cn/problems/binary-search/
 func Search(nums []int, target int) int {

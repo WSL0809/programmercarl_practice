@@ -1,4 +1,4 @@
-package src
+package array
 
 // RemoveElement https://leetcode.cn/problems/remove-element/
 
